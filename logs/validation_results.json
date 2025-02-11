@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "results": [],
+    "evaluation_parameters": {},
+    "statistics": {
+        "evaluated_expectations": 8,
+        "successful_expectations": 8,
+        "unsuccessful_expectations": 0,
+        "success_percent": 100.0
+    },
+    "meta": {
+        "great_expectations_version": "0.18.22",
+        "expectation_suite_name": "default_suite",
+        "run_id": {
+            "run_name": null,
+            "run_time": "2025-02-05T18:46:37.020747-05:00"
+        },
+        "batch_kwargs": {
+            "ge_batch_id": "703cb104-e41b-11ef-bbd5-fb61d5bfb4d7"
+        },
+        "batch_markers": {},
+        "batch_parameters": {},
+        "validation_time": "20250205T234637.020679Z",
+        "expectation_suite_meta": {
+            "great_expectations_version": "0.18.22"
+        }
+    }
+}

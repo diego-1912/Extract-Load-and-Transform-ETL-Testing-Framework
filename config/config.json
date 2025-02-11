@@ -1,0 +1,5 @@
+{
+    "input_data_file": "data/input_data.csv",
+    "expectation_suite": "expectations/my_expectations.json"
+  }
+  
